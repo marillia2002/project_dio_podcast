@@ -1,0 +1,58 @@
+Abaixo, há o prompt que utilizei para pedir o roteiro do podcast e a resposta dada.
+
+Prompt:
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de educação matemática 
+utilizando tecnologia e IA cujo o nome é "Quadro Negro - Ideias e tecnologias que transformam a 
+educação matemática" e tem foco educação matemática,  com o público alvo de professores de matemática. 
+
+o formato do roteiro deve ser
+
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] faça uma introdução criativa utiiizando elementos de matemática e sala de aula para iniciar o podcast 
+- no bloco [CURIOSIDADE 1] substitua por uma tendência de educação matemática 
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta de tecnologia que pode ser utilizada hoje em dia para ensinar matemática em sala de aula 
+- no bloco [FINALIZAÇÃO] substitua por uma despedida com o final 'Eu sou a Marília e essas foram as anotações no Quadro Negro dessa semana' 
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Marília
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+Resposta:
+Claro! Seguindo suas instruções, aqui está um roteiro curto para o podcast **Quadro Negro - Ideias e tecnologias que transformam a educação matemática**:
+
+---
+
+[INTRODUÇÃO]
+Olá, professoras e professores! Sejam bem-vindos ao *Quadro Negro*, o espaço onde a matemática encontra novas 
+ideias e tecnologias. Imagine a sala de aula como uma grande equação: de um lado, os desafios de ensinar; do outro, 
+as ferramentas que podem transformar a aprendizagem. O resultado? Uma educação matemática mais viva, criativa e próxima
+da realidade dos nossos alunos. Eu sou a Marília, e hoje vamos explorar juntos algumas dessas possibilidades.
+
+[CURIOSIDADE 1]
+Uma tendência forte na educação matemática é o ensino baseado em resolução de problemas. 
+Em vez de apenas apresentar fórmulas, o professor convida os alunos a investigar situações reais e encontrar soluções. 
+Isso dá mais sentido ao aprendizado, já que os estudantes percebem a utilidade da matemática no cotidiano. 
+Além disso, essa prática ajuda a desenvolver raciocínio lógico, criatividade e colaboração em sala.
+
+[CURIOSIDADE 2]
+Uma ferramenta tecnológica que pode apoiar esse processo é o GeoGebra. Ele é um software gratuito que permite 
+explorar geometria, álgebra e cálculo de forma interativa. Por exemplo: ao estudar funções, os alunos podem mexer
+nos gráficos em tempo real, visualizar mudanças e testar hipóteses. Isso torna a aula mais dinâmica e dá autonomia
+para o estudante experimentar, como se estivesse em um laboratório matemático.
+
+[FINALIZAÇÃO]
+E aí, gostou dessas ideias para renovar sua prática em sala de aula? Lembre-se: cada recurso é como um giz 
+novo no quadro, capaz de colorir e transformar a forma de ensinar. Eu sou a Marília e essas foram as anotações no Quadro Negro dessa semana.
+
+---
