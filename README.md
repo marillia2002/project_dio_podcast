@@ -7,4 +7,4 @@ e narração.
 
 Apesar do Podcast ser sobre educação matemática e uso da tecnologia e IA como aliada do ensino, 
 os prompts aqui descirtos possuem como base os criados pelo Felipe Aguiar, na DIO. 
-O conteúdo desse profissional pode ser acessado por meio do link [https://github.com/marillia2002/prompts-for-podcast-generate-by-ia](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)
+O conteúdo desse profissional pode ser acessado por meio do link (https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)
